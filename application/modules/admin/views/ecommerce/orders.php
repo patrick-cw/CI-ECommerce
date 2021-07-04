@@ -55,14 +55,7 @@ if (!isset($_GET['settings'])) {
                                         <img src="<?= base_url('assets/imgs/new-blinking.gif') ?>" style="width:100px;" alt="blinking">
                                     </div>
                                 <?php } ?>
-                                <div class="confirm-result">
-                                    <?php if ($tr['confirmed'] == '1') { ?>
-                                        <span class="label label-success">Confirmed by email</span>
-                                    <?php } else { ?> 
-                                        <span class="label label-danger">Not Confirmed</span> 
-                                    <?php } ?>
-                                </div>
-                            </td>
+                            
                             <td><?= date('d.M.Y / H:i:s', $tr['date']); ?></td>
                             <td>
                                 <i class="fa fa-user" aria-hidden="true"></i> 
@@ -141,8 +134,8 @@ if (!isset($_GET['settings'])) {
                                                     <?php
                                                     $arr_products = unserialize($tr['products']);
                                                     foreach ($arr_products as $product) {
-                                                        $total_amount = 0;
-                                                        $total_amount += str_replace(' ', '', str_replace(',', '.',$product['product_info']['price']));
+														
+                                                        $total_amount = str_replace(' ', '', str_replace(',', '.',$product['product_info']['price']));
                                                         ?>
                                                         <div style="word-break: break-all;">
                                                             <div>
