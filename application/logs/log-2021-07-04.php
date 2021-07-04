@@ -1708,3 +1708,471 @@ ERROR - 2021-07-04 12:25:48 --> Severity: 8192 --> Required parameter $big_get f
 ERROR - 2021-07-04 12:25:48 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\Ecommerce-CodeIgniter-Bootstrap\application\models\Public_model.php 82
 ERROR - 2021-07-04 12:25:48 --> 404 Page Not Found: /index
 ERROR - 2021-07-04 12:25:48 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\Ecommerce-CodeIgniter-Bootstrap\application\models\Public_model.php 82
+ERROR - 2021-07-04 13:58:29 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'shop' C:\xampp\htdocs\CI-ECommerce\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2021-07-04 13:58:29 --> Unable to connect to the database
+ERROR - 2021-07-04 14:00:20 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:01:10 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:06 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:07 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:07 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:07 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:07 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:07 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:02:08 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:08 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:08 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:08 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:08 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:08 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:02:08 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:08 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:02:19 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:19 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:19 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:19 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:19 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:19 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:19 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:19 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:19 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:02:20 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:20 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:20 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:02:20 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:20 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:02:23 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:31 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:31 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:39 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:39 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:39 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:02:39 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:39 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:02:39 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:39 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:02:43 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:43 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:02:43 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:43 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:02:55 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:55 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:02:55 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:03:08 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:03:09 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:03:14 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:03:16 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:03:23 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:03:23 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:03:23 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:03:23 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:03:23 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:03:23 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:03:23 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:03:25 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:03:29 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:03:32 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:04 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:04:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:05 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:04:32 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:32 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:36 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:37 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:37 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:37 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:37 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:37 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:37 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:37 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:37 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:37 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:04:37 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:04:37 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:05:13 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:05:13 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:05:13 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:05:13 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:05:14 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:05:14 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:05:14 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:05:14 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:05:14 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:05:14 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:05:14 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:05:14 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:06:01 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:06:14 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:06:19 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:06:19 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:08:07 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:08:21 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:08:36 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:12 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:17 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:24 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:24 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:26 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:27 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:29 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:31 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:34 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:53 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:53 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:58 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:58 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:58 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:58 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:59 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:59 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:59 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:09:59 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:03 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:03 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:03 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:06 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:06 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\CI-ECommerce\application\views\templates\redlabel\checkout.php 37
+ERROR - 2021-07-04 14:10:07 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:07 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:07 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:07 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:07 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:07 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:07 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:15 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:17 --> Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2021-07-04 14:10:18 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:18 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:18 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:18 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:18 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:18 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:18 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:18 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:23 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:23 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:28 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:29 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:29 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:10:29 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:29 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:10:34 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:38 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:39 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:48 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:49 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:49 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:10:49 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:10:49 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:10:51 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:11:27 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:11:27 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:11:27 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:11:27 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:11:28 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:11:28 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:11:28 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:11:28 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:11:33 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:11:33 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:11:33 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:11:33 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:11:33 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:11:33 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:11:33 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:11:33 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:13:08 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:13:30 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:13:30 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:13:31 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:13:31 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:13:31 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:13:31 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:13:31 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:13:31 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:13:55 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:13:55 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:13:55 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:13:55 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:13:56 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:13:56 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:13:56 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:13:56 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:13:56 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:05 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:19 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:19 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:19 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:19 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:19 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:19 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:19 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:19 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:26 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:26 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:26 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:26 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:26 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:26 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:26 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:26 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:31 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:31 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:31 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:32 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:32 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:32 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:32 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:32 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:41 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:41 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:41 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:41 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:41 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:41 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:41 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:41 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:44 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:44 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:44 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:45 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:45 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:45 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:45 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:45 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:52 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:53 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:53 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:53 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:53 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:53 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:53 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:14:53 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:15:03 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:15:03 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:15:19 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:15:19 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:16:13 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:20 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:20 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:20 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:20 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:20 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:24 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:24 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:25 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:25 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:25 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:25 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:27 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:27 --> Severity: Warning --> Trying to access array offset on value of type int C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\_parts\header.php 218
+ERROR - 2021-07-04 14:16:27 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:27 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:28 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:28 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:16:28 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:28 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:16:28 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:34 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:35 --> Severity: Warning --> Trying to access array offset on value of type int C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\_parts\header.php 218
+ERROR - 2021-07-04 14:16:35 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:35 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:35 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:39 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:39 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:39 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:16:50 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:50 --> Severity: Warning --> Trying to access array offset on value of type int C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\_parts\header.php 218
+ERROR - 2021-07-04 14:16:50 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:50 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:51 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:51 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:16:51 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:17:35 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:35 --> Severity: Warning --> Trying to access array offset on value of type int C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\_parts\header.php 218
+ERROR - 2021-07-04 14:17:35 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:36 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:36 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:36 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:36 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:17:36 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:36 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:17:41 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:41 --> Severity: Warning --> Trying to access array offset on value of type int C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\_parts\header.php 218
+ERROR - 2021-07-04 14:17:41 --> Severity: error --> Exception: array_count_values(): Argument #1 ($array) must be of type array, null given C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\view_product.php 69
+ERROR - 2021-07-04 14:17:48 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:48 --> Severity: Warning --> Trying to access array offset on value of type int C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\_parts\header.php 218
+ERROR - 2021-07-04 14:17:48 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:48 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:48 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:48 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:17:48 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:48 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:17:48 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:49 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:49 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:49 --> Severity: Warning --> Trying to access array offset on value of type int C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\_parts\header.php 218
+ERROR - 2021-07-04 14:17:49 --> Severity: error --> Exception: array_count_values(): Argument #1 ($array) must be of type array, null given C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\view_product.php 69
+ERROR - 2021-07-04 14:17:55 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:55 --> Severity: Warning --> Trying to access array offset on value of type int C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\_parts\header.php 218
+ERROR - 2021-07-04 14:17:55 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:55 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:56 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:56 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:56 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:17:56 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:17:56 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:18:11 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:11 --> Severity: Warning --> Trying to access array offset on value of type int C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\_parts\header.php 218
+ERROR - 2021-07-04 14:18:12 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:12 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:12 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:14 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:14 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:14 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\checkout.php 43
+ERROR - 2021-07-04 14:18:15 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:15 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:15 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:21 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:21 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:21 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:21 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:21 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:21 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:18:21 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:21 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:18:26 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:26 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:26 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:26 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:26 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:49 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:49 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:49 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\checkout.php 43
+ERROR - 2021-07-04 14:18:49 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:49 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:49 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:52 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:52 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:52 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:53 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:53 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:53 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:18:53 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:53 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:18:55 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:55 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:55 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:55 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:55 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:55 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:18:55 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:55 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:18:59 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:59 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:59 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:59 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:18:59 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:19:15 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:19:16 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:19:16 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\checkout.php 43
+ERROR - 2021-07-04 14:19:16 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:19:16 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:19:16 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:19:25 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:19:27 --> Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2021-07-04 14:19:27 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:19:27 --> Severity: Warning --> Trying to access array offset on value of type int C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\_parts\header.php 218
+ERROR - 2021-07-04 14:19:27 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:19:27 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:19:28 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:24:49 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:24:49 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:24:49 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:24:49 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:24:49 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:10 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:10 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:10 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:25:10 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:10 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:25:14 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:16 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:18 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:18 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:24 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:26 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:26 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:26 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:25:26 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:26 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:25:30 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:33 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:41 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:47 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:51 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:56 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:57 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:57 --> Severity: Warning --> Trying to access array offset on value of type int C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\_parts\header.php 218
+ERROR - 2021-07-04 14:25:57 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:58 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:58 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:58 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:58 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:25:58 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:25:58 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:26:03 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:26:03 --> Severity: Warning --> Trying to access array offset on value of type int C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\_parts\header.php 218
+ERROR - 2021-07-04 14:26:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:26:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:26:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:26:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:26:04 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:26:04 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:26:04 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:26:05 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:26:05 --> Severity: Warning --> Trying to access array offset on value of type int C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\_parts\header.php 218
+ERROR - 2021-07-04 14:26:05 --> Severity: Warning --> Trying to access array offset on value of type int C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\checkout.php 12
+ERROR - 2021-07-04 14:26:05 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:26:05 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:26:05 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:26:06 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:26:06 --> Severity: Warning --> Trying to access array offset on value of type int C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\_parts\header.php 218
+ERROR - 2021-07-04 14:26:06 --> Severity: Warning --> Trying to access array offset on value of type int C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\shopping_cart.php 11
+ERROR - 2021-07-04 14:26:06 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:26:06 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:26:06 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:26:07 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:26:07 --> Severity: Warning --> Trying to access array offset on value of type int C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\_parts\header.php 218
+ERROR - 2021-07-04 14:26:07 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:26:07 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:26:07 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:26:30 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:27:09 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:27:09 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:27:24 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:27:24 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:27:29 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:27:29 --> Severity: Warning --> Trying to access array offset on value of type int C:\xampp\htdocs\CI-ECommerce\application\views\templates\greenlabel\_parts\header.php 218
+ERROR - 2021-07-04 14:27:29 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:27:29 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:27:29 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:27:29 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:27:29 --> 404 Page Not Found: /index
+ERROR - 2021-07-04 14:27:29 --> Severity: 8192 --> Required parameter $big_get follows optional parameter $limit C:\xampp\htdocs\CI-ECommerce\application\models\Public_model.php 82
+ERROR - 2021-07-04 14:27:29 --> 404 Page Not Found: /index
